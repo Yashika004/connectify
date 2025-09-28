@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401267857912",
+    "project_id": "flutterpractice-9a11d",
+    "storage_bucket": "flutterpractice-9a11d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401267857912:android:2b00841f79073e04c35e0d",
+        "android_client_info": {
+          "package_name": "com.example.connectify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Wrgy9bzW3h2w0K9lUfySBmrXTwxuTqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
