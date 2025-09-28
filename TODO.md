@@ -1,1 +1,0 @@
-- [x] Write professional README.md for Connectify app
