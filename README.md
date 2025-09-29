@@ -10,10 +10,6 @@ Connectify is a modern, cross-platform chat application built with Flutter. It e
 - **Adaptive Theme**: Support for light and dark modes with Material 3 design.
 - **Profile Management**: View user profile and settings, including theme toggle and logout.
 
-## Screenshots
-
-*(Add screenshots of the app here for better visualization: auth screen, home screen, chat interface, settings.)*
-
 ## Prerequisites
 
 - Flutter SDK (version 3.7.0 or higher)
