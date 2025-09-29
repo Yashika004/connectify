@@ -92,11 +92,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 3. Commit changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-*(Note: Add a LICENSE file if not present.)*
-
-For questions or issues, open a GitHub issue.
